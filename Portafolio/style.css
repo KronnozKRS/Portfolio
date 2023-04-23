@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Header */
+
+header {
+    position: relative;
+    text-align: justify;
+    background-image: url(./img/Fondo.png);
+    background-size: cover;
+    padding-top: 200px;
+    text-decoration: overline;
+}
+
+header h1 {
+    color: goldenrod;
+    font-size: 100px;
+    font-family: 'mova Oval', cursive;
+}
+
+header p {
+    font-size: 35px;
+    color: red;
+    font-family: 'Dancing Script', cursive;
+}
+
+.wave {
+    position: absolute;
+    bottom: 1;
+    width: 100%;
+}
+
+/* Main */
+
+main {
+    background-color: rgb(51, 50, 50);
+    margin: 28px;
+}
+
+main img {
+    padding-top: 100px;
+    width: 500px;
+    height: 500px;
+    margin-bottom: 100px;
+}
+
+.about-me {
+    position: relative;
+    margin-left: 50%;
+    bottom: 350px;
+    font-size: 32px;
+    margin-bottom: 30px;
+    display: flexbox;
+}
