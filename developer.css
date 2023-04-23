@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+.about-me{
+    position: relative;
+    display: inline-block;
+    left: 65%;
+    top: 6px;
+    background-color: black;
+    padding: 5px;
+    border-radius: 12px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+html{
+    background-color: rgb(50, 50, 51);
+}
+
+h3{
+    background-color: goldenrod;
+    left: 36%;
+    position: relative;
+    top: 80px;
+    margin-right: 75%;
+    border-radius: 8px;
+    padding: 2px;
+    font-family: monospace;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+section{
+    border-radius: 15px;
+    border-style: dashed;
+    margin: 30px;
+    border-color: goldenrod;
+    margin-top: 200px;
+    font-size: 25px;
+    background-color: white;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 15px;
+    padding-bottom: 5px ;
+}
+
+section ul{
+    margin-left: 35px; 
+    color: green;
+}
